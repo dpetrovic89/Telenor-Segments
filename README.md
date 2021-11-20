@@ -1,6 +1,6 @@
 # Telenor-Segments
 
-      **Segment 1:**
+**Segment 1:**
 
 All users are churned.
 
@@ -8,7 +8,7 @@ They also get least calls to them 5.5 on average.
 
 Total refill amount is 2x bigger than segments 3 and 5 and they use same number of refills as segments 3 and 5.
 
-      **Segment 2:**
+**Segment 2:**
 
 Most Active and Profitable segment.
 
@@ -30,7 +30,7 @@ Outgoing minutes in network is 10x to 20x more than others.
 
 Total refill amount is 2x to 3x bigger than others and they refill 3x more than rest.
 
-      **Segments 3 and 5 are similar:**
+**Segments 3 and 5 are similar:**
 
 They are active users (Not Churned).
 
